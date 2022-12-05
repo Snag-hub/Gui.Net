@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T12:19:15.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rGwPs0izLramr2R18Ko_" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T12:13:00.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vaprQ-3yGRlUOaRJRoEu" version="20.6.0" type="github">
   <diagram id="pmyvJYctkSqaA1s6qdmt" name="Page-1">
-    <mxGraphModel dx="1108" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fpoYQwEQuOkwDuQ0j5TA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-1" target="fpoYQwEQuOkwDuQ0j5TA-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-1" target="hO3E_pkQ_Gj8X8JqqKmg-12">
+        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-1" target="hO3E_pkQ_Gj8X8JqqKmg-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="250" as="targetPoint" />
           </mxGeometry>
@@ -90,9 +90,6 @@
         </mxCell>
         <mxCell id="fpoYQwEQuOkwDuQ0j5TA-26" value="There will be a form which will display&lt;br&gt;the data from those Shadows table&lt;br&gt;which can be approved by a high rank employee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="19" y="1064" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fpoYQwEQuOkwDuQ0j5TA-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-27" target="fpoYQwEQuOkwDuQ0j5TA-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fpoYQwEQuOkwDuQ0j5TA-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-27" target="fpoYQwEQuOkwDuQ0j5TA-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -253,19 +250,24 @@
             <mxRectangle width="100" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpoYQwEQuOkwDuQ0j5TA-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-63" target="fpoYQwEQuOkwDuQ0j5TA-65" edge="1">
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-63" target="XFlvYcVDsQkHUCNvlML1-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fpoYQwEQuOkwDuQ0j5TA-63" value="If Approved" style="rhombus;whiteSpace=wrap;html=1;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1354" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fpoYQwEQuOkwDuQ0j5TA-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-65" target="hO3E_pkQ_Gj8X8JqqKmg-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="715" y="1734" as="targetPoint" />
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-6" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XFlvYcVDsQkHUCNvlML1-3">
+          <mxGeometry x="0.2536" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpoYQwEQuOkwDuQ0j5TA-65" value="Save to DO Master table and you can make the DO" style="whiteSpace=wrap;html=1;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="655" y="1514" width="120" height="60" as="geometry" />
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-63" target="XFlvYcVDsQkHUCNvlML1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-9" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XFlvYcVDsQkHUCNvlML1-8">
+          <mxGeometry x="-0.2667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpoYQwEQuOkwDuQ0j5TA-63" value="If Approved" style="rhombus;whiteSpace=wrap;html=1;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="624" y="1580" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fpoYQwEQuOkwDuQ0j5TA-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-67" target="fpoYQwEQuOkwDuQ0j5TA-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -318,45 +320,95 @@
         <mxCell id="fpoYQwEQuOkwDuQ0j5TA-85" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;If not approved then it will be&amp;nbsp;&lt;br&gt;here until we delete&amp;nbsp;&lt;br&gt;or approve it&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="262" y="1624" width="235" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-86" target="hO3E_pkQ_Gj8X8JqqKmg-10">
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-86" target="XFlvYcVDsQkHUCNvlML1-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="1874" as="targetPoint" />
+            <mxPoint x="40" y="2176" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="1845" />
+              <mxPoint x="20" y="2176" />
+              <mxPoint x="100" y="2176" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fpoYQwEQuOkwDuQ0j5TA-86" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;if Deleted then PO&lt;br&gt;will be made&lt;br&gt;against it&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="19" y="1724" width="189.25" height="110" as="geometry" />
+          <mxGeometry x="40" y="1790" width="189.25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hO3E_pkQ_Gj8X8JqqKmg-1" target="hO3E_pkQ_Gj8X8JqqKmg-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="1874" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-1" value="If Approved then It will be Saved and You can make Customer Invoice Directly" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="657.5" y="1694" width="115" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-2" value="If Everything is good then It will be Saved and You can make Customer Invoice Directly" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-2" value="If Everything is good then It will be Saved and You can make Customer Invoice Directly" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="924" width="149" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-10" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1894" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-12" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-12" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;New Logic for Delivery Order&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;New Logic for Delivery Order&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="249" y="60" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Document Created on 26 Nov 2022&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-14" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Document Created on 26 Nov 2022&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="309" y="80" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;New Form Will be There&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;New Form Will be There&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="570" y="1080" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;endWidth=37;endSize=9.33;width=13;exitX=-0.018;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hO3E_pkQ_Gj8X8JqqKmg-15">
+        <mxCell id="hO3E_pkQ_Gj8X8JqqKmg-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;endWidth=37;endSize=9.33;width=13;exitX=-0.018;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="hO3E_pkQ_Gj8X8JqqKmg-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="1040" as="sourcePoint" />
             <mxPoint x="480" y="1100" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fpoYQwEQuOkwDuQ0j5TA-46" target="fpoYQwEQuOkwDuQ0j5TA-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="1667" />
+              <mxPoint x="689" y="1667" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFlvYcVDsQkHUCNvlML1-2" target="XFlvYcVDsQkHUCNvlML1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-2" value="Approved and Meet the conditions&amp;nbsp;&lt;br&gt;Like Stock Available,&lt;br&gt;Credit Limit Available,&lt;br&gt;Credit Terms Fulfilled" style="whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="458" y="1730" width="149.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-4" value="Then Background check will be performed and DO will be created" style="whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1850" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFlvYcVDsQkHUCNvlML1-7" target="XFlvYcVDsQkHUCNvlML1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-7" value="If Approved and Stock doesn&#39;t available then It will be redirected to Users to make a DO out of it after removing items which are not in Stock" style="whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1860" width="239" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFlvYcVDsQkHUCNvlML1-10" target="XFlvYcVDsQkHUCNvlML1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-10" value="Then User can Fill and save the form" style="ellipse;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFlvYcVDsQkHUCNvlML1-12" target="XFlvYcVDsQkHUCNvlML1-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-12" value="After Modifying DO&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="342" y="2080" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-14" value="There will be conditions&lt;br&gt;which checks that is DO Approved and if DO&lt;br&gt;and if DO is Approved then it will GO into&lt;br&gt;Background check and DO will Be Made" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2020" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFlvYcVDsQkHUCNvlML1-14" target="XFlvYcVDsQkHUCNvlML1-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="2320" as="sourcePoint" />
+            <mxPoint x="340" y="2450" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XFlvYcVDsQkHUCNvlML1-18" target="XFlvYcVDsQkHUCNvlML1-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-18" value="If Everything is good then It will be Saved and You can make Customer Invoice Directly" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2150" width="149" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XFlvYcVDsQkHUCNvlML1-21" value="STOP" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="2240" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
